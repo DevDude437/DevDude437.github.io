@@ -1,0 +1,2 @@
+## The Tech News Dude
+The Tech News Dude. Your home for the latest news in open source tech. 🚀 Updated regularly with new stories, this website is coded in HTML and is my very first HTML project I created. I hope you enjoy it! 
