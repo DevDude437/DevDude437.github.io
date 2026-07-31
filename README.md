@@ -1,2 +1,2 @@
-## The Tech News Dude
-The Tech News Dude. Your home for the latest news in open source tech. 🚀 Updated regularly with new stories, this website is coded in HTML and is my very first HTML project I created. You can view the website [here](https://devdude437.github.io/). I hope you enjoy it! 
+# Note
+This repo is no longer activly maintained, and is read only now. The HTML was poorly structured, and the site needs many changes, therefore it is easier to recreate the entire site differently. 
